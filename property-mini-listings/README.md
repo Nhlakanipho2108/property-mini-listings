@@ -36,4 +36,4 @@ npm run dev
 ```sh
 npm run build
 ```
-![Frontpage Screenshot](image-1.png)
+![Frontpage Screenshot](docs/image-1.png)
