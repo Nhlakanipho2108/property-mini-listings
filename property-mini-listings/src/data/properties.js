@@ -7,7 +7,7 @@ const properties = [
     type: 'Studio',
     isAvailable: true,
     image:
-      'seapoint.jpg'
+      '/images/seapoint.jpg'
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const properties = [
     type: 'Loft',
     isAvailable: false,
     image:
-      'signal hill.jpg'
+      '/images/signal-hill.jpg'
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const properties = [
     type: 'Villa',
     isAvailable: true,
     image:
-      'campsbay.jepg.avif'
+      '/images/campsbay.avif'
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const properties = [
     type: 'Apartment',
     isAvailable: true,
     image:
-      'citybowl.jpg'
+      '/images/citybowl.jpg'
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ const properties = [
     type: 'Flat',
     isAvailable: false,
     image:
-      'woodstock.jpg'
+      '/images/woodstock.jpg'
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ const properties = [
     type: 'Apartment',
     isAvailable: true,
     image:
-      'greenpoint.jpg'
+      '/images/greenpoint.jpg'
   },
   {
     id: 7,
@@ -67,7 +67,7 @@ const properties = [
     type: 'House',
     isAvailable: true,
     image:
-      'blouberg.jpg'
+      '/images/blouberg.jpg'
   },
   {
     id: 8,
@@ -77,7 +77,7 @@ const properties = [
     type: 'Bungalow',
     isAvailable: true,
     image:
-      'muizenberg.jpg'
+      '/images/muizenberg.jpg'
   }
 ]
 
